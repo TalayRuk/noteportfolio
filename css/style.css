@@ -1,3 +1,26 @@
+body {
+  font-family:calibri;
+}
+
+.container {
+  padding-top: 1px;
+  padding-bottom:5%;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #79CDCD;
+  height: auto;
+  text-align:left;
+}
+/*I was trying to get a round profile pic but got an oval one instead :()*/
+.container img {
+  float: right;
+  max-width: 50px;
+	max-height: 50px;
+	border-radius:50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+  padding-right: 5px;
+}
 .highlight {
   font-weight: bolder;
   font-family: sans-serif;
