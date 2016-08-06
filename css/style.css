@@ -32,7 +32,7 @@ body {
   height: auto;
   text-align:left;
 }
-.c-1 #sunset {
+.c-1 #sunset img {
   float:right;
   width:13%;
 }
@@ -47,7 +47,7 @@ body {
   height: auto;
   text-align:left;
 }
-.c-2 #ocean {
+.c-2 #ocean img {
   float:right;
   width:13%;
 }
