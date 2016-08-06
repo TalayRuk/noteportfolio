@@ -71,3 +71,6 @@ body {
   font-weight: bolder;
   font-family: sans-serif;
 }
+.btn {
+  position: center;
+}
