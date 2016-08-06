@@ -9,6 +9,8 @@ body {
   background-color: #79CDCD;
   height: auto;
   text-align:left;
+  color: white;
+  font-size: 40px;
 }
 /*I was trying to get a round profile pic but got an oval one instead :()*/
 .container img {
@@ -61,7 +63,7 @@ body {
   height: auto;
   text-align:left;
 }
-.c-3 img {
+#project {
   float:left;
   width:20%;
 }
