@@ -46,10 +46,12 @@ body {
   background-color: #E0EEEE	;
   height: auto;
   text-align:left;
+  width: 80%;
+  height:auto;
 }
-.c-2 #ocean img {
+.c-2 img {
   float:right;
-  width:13%;
+  width: 13%;
 }
 
 .c-3 {
