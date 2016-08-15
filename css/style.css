@@ -58,7 +58,7 @@ body {
   text-align:left;
 }
 #project {
-  width:40%;
+  width:45%;
 }
 .highlight {
   font-weight: bolder;
@@ -66,4 +66,5 @@ body {
 }
 .btn-danger {
   background-color: 39ea0db;
+  text-align: center;
 }
