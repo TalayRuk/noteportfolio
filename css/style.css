@@ -5,7 +5,7 @@ body {
 
 .page-header {
   background-color: #79CDCD;
-  margin: none;
+  margin: 0 0 0 0;
 }
 /*I was trying to get a round profile pic but got an oval one instead :()*/
 .page-header img {
@@ -65,6 +65,6 @@ body {
   font-family: sans-serif;
 }
 .btn-danger {
-  background-color: 39ea0db;
+  background-color: #9ea0db;
   text-align: center;
 }
