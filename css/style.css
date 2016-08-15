@@ -2,6 +2,9 @@ body {
   font-family:calibri;
 }
 
+.page-header {
+  background-color: #79CDCD;
+}
 /*I was trying to get a round profile pic but got an oval one instead :()*/
 .page-header img {
   float: right;
