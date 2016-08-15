@@ -1,17 +1,7 @@
 body {
   font-family:calibri;
 }
-.page-header {
-  /*padding-top: 1px;*/
-  /*padding-bottom:5%;*/
-  /*padding-left: 10px;*/
-  /*padding-right: 10px;*/
-  /*background-color: #79CDCD;*/
-  /*height: auto;*/
-  /*text-align:left;*/
-  /*color: white;*/
-  /*font-size: 40px;*/
-}
+
 /*I was trying to get a round profile pic but got an oval one instead :()*/
 .page-header img {
   float: right;
