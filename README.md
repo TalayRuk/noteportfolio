@@ -16,7 +16,7 @@ _**By Vichitra Pool (Note) on August 5th, 2016_
 _None_
 
 ## Support and contact details
-_Contact me at vjde28@gmail.com_
+_Contact me_
 
 ## Technologies Used
 
